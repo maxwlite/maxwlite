@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxwlite
 - 👀 I’m interested in programming and engineering.
-- 🌱 I’m currently cs50
+- 🌱 I’m currently learning cs50.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me- maxwlite99@gmail.com
 
